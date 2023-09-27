@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
         "failover"
-    ]
+    ],
+    "terminal.integrated.shellIntegration.suggestEnabled": true
 }

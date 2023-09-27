@@ -1,4 +1,4 @@
----
+microsoft.Windows server---
 title: Choosing your data settings
 description: Choosing your diagnostic data settings for flighting 
 author: bleblanc
